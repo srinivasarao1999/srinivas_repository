@@ -1,3 +1,0 @@
-welcome to the kitchen of programming.
-
-add python to it.
